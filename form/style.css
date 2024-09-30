@@ -1,0 +1,34 @@
+header{
+    text-align: center;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-style: groove;
+}
+
+fieldset{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: fit-content;
+
+}
+.hobbies1,.hobbies2,.hobbies3{
+    display: flex;
+    
+}
+body{
+    background-color:lightblue ;
+    
+}
+.hobbies1{
+    background-color: beige;
+}
+.hobbies2{
+    background-color: beige;
+}
+.hobbies3{
+    background-color: beige;
+}
+
